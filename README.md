@@ -1,4 +1,4 @@
-Online Store Management – Technical Test
+                                                                                           Online Store Management – Technical Test
 
 Replay – Mentored Internship Program
 
@@ -6,6 +6,7 @@ This repository contains the full-stack solution for the technical test, develop
 The application allows managing products for an online store, including listing, filtering, creating, editing, deleting, and viewing details.
 
 I.Tech Stack
+
 1.Frontend
 
 React + Vite
