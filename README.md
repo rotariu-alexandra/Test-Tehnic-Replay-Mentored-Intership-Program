@@ -1,4 +1,4 @@
-                                                                                           Online Store Management – Technical Test
+Online Store Management – Technical Test
 
 Replay – Mentored Internship Program
 
@@ -50,7 +50,7 @@ Backend
 
 Navigate to backend folder:
 
-cd magazinOnline-backend
+   cd magazinOnline-backend
 
 
 Configure database credentials in
@@ -58,34 +58,34 @@ src/main/resources/application.properties
 
 Run the Spring Boot app (if maven is installed):
 
-mvn spring-boot:run
+    mvn spring-boot:run
 
 Otherwise start it using Inteliji.
 
-Backend runs on http://localhost:8080
+   Backend runs on http://localhost:8080
 
 Frontend
 
 Navigate to frontend folder:
 
-cd magazin-online-frontend
+    cd magazin-online-frontend
 
 
 Install dependencies:
 
-npm install
+   npm install
 
 
 Start dev server:
 
-npm run dev
+   npm run dev
 
 
-Frontend runs on http://localhost:5173
+   Frontend runs on http://localhost:5173
 
 III.Tests
 
 To run unit tests (React Testing Library + Vitest):
 
-cd magazin-online-frontend
-npm test
+   cd magazin-online-frontend
+   npm test
