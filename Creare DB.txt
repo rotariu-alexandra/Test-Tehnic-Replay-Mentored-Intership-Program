@@ -1,0 +1,14 @@
+-- WARNING: This schema is for context only and is not meant to be run.
+-- Table order and constraints may not be valid for execution.
+
+CREATE TABLE public.products (
+  id bigint GENERATED ALWAYS AS IDENTITY NOT NULL,
+  category character varying,
+  description character varying,
+  name character varying,
+  price double precision,
+  quantity integer,
+  seller_name character varying,
+  subcategory character varying,
+  CONSTRAINT products_pkey PRIMARY KEY (id)
+);
