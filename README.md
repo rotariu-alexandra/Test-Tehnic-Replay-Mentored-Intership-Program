@@ -68,17 +68,17 @@ Frontend
 
 Navigate to frontend folder:
 
-    cd magazin-online-frontend
+       cd magazin-online-frontend
 
 
 Install dependencies:
 
-   npm install
+      npm install
 
 
 Start dev server:
 
-   npm run dev
+       npm run dev
 
 
    Frontend runs on http://localhost:5173
@@ -87,5 +87,5 @@ III.Tests
 
 To run unit tests (React Testing Library + Vitest):
 
-   cd magazin-online-frontend
-   npm test
+      cd magazin-online-frontend
+      npm test
